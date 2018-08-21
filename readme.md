@@ -10,4 +10,4 @@ Experimentos com Kotlin.
 
 ## ToDo
 
-* **TODO** Fazer um lab com o Ktor.
+* Fazer um lab com o Ktor.
